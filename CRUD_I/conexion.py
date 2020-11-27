@@ -1,3 +1,4 @@
+#SBD
 import mysql.connector
 
 bd = mysql.connector.connect(
